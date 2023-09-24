@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" />
+  <project path="hardware/samsung_slsi/exynos" name="LineageOS/android_hardware_samsung_slsi_exynos" groups="samsung" />
+  <project path="hardware/samsung_slsi/fm" name="LineageOS/android_hardware_samsung_slsi_fm" groups="samsung" />
+  <project path="hardware/samsung_slsi/libbt" name="LineageOS/android_hardware_samsung_slsi_libbt" groups="samsung" />
+  <project path="hardware/samsung_slsi/scsc/wifibt/wpa_supplicant_lib" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" groups="samsung" />
+  <project path="hardware/samsung_slsi-linaro/config" name="LineageOS/android_hardware_samsung_slsi-linaro_config" groups="samsung" />
+</manifest>

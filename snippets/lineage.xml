@@ -68,14 +68,6 @@
     <linkfile src="os_pickup.bp" dest="kernel/google/gs201/private/google-modules/Android.bp" />
   </project>
 
-  <!-- Samsung additions -->
-  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" />
-  <project path="hardware/samsung_slsi/exynos" name="LineageOS/android_hardware_samsung_slsi_exynos" groups="samsung" />
-  <project path="hardware/samsung_slsi/fm" name="LineageOS/android_hardware_samsung_slsi_fm" groups="samsung" />
-  <project path="hardware/samsung_slsi/libbt" name="LineageOS/android_hardware_samsung_slsi_libbt" groups="samsung" />
-  <project path="hardware/samsung_slsi/scsc/wifibt/wpa_supplicant_lib" name="https://github.com/LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" groups="samsung" />
-  <project path="hardware/samsung_slsi-linaro/config" name="LineageOS/android_hardware_samsung_slsi-linaro_config" groups="samsung" />
-  
   <!-- NXP additions -->
   <project path="vendor/nxp/nfc" name="LineageOS/android_vendor_nxp_nfc" groups="nxp" />
   <project path="vendor/nxp/secure_element" name="LineageOS/android_vendor_nxp_secure_element" groups="nxp" />
